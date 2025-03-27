@@ -1,1 +1,18 @@
 Ahmed Salman, Abid Rehman, Salman Chowdhury
+
+# Steps to Run
+
+Navigate to the project directory:
+```
+Copycd path/to/A9
+```
+
+Compile the program:
+```
+Copymake -f Makefile
+```
+
+Run the application with an audio file:
+```
+Copy./A9 pencil.mp3
+```
