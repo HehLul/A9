@@ -1,18 +1,20 @@
 Ahmed Salman, Abid Rehman, Salman Chowdhury
 
-# Steps to Run
+# Sound-Based Drawing App
 
-Navigate to the project directory:
-```
-Copycd path/to/A9
-```
+## Steps to Run
 
-Compile the program:
-```
-Copymake -f Makefile
-```
+1. Navigate to the project directory:
+   ```
+   cd path/to/A9
+   ```
 
-Run the application with an audio file:
-```
-Copy./A9 pencil.mp3
-```
+2. Compile the program:
+   ```
+   make -f Makefile
+   ```
+
+3. Run the application with an audio file:
+   ```
+   ./A9 pencil.mp3
+   ```
